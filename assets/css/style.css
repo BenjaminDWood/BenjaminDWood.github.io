@@ -1,0 +1,12 @@
+body {
+  background-color: #1e1e1e; /* dark grey background */
+  color: #f5f5f5; /* light text for readability */
+}
+
+a {
+  color: #4ea1f3; /* link colour */
+}
+
+a:hover {
+  color: #81c4ff; /* lighter link hover */
+}
