@@ -6,7 +6,7 @@
 
 🏡 Nationality: UK
 
-💻 [GitHub](https://github.com/BenjaminDWood) | 📊 [Tableau Public](https://public.tableau.com/app/profile/benjamin.wood8808/vizzes) | 📄 [CV](nolinkyet.com)
+💻 [GitHub](https://github.com/BenjaminDWood) | 📊 [Tableau Public](https://public.tableau.com/app/profile/benjamin.wood8808/vizzes)
 
 📧 email: bdwood90@gmail.com
 
@@ -30,6 +30,8 @@ In 2024, I decided to transition back to a data-based career. Since leaving teac
 - After cleaning and preprocessing the data in Python using Pandas and NumPy, I explored player attributes through various visualisations in Matplotlib and Seaborn.
 - The size and scope of the dataset makes it perfect for continuing to apply new skills; my next planned step is to develop a regression model to estimate the effects of age on player rating.
 - **Skills:** Data cleaning & preprocessing (Python, Pandas, NumPy), exploratory data analysis, data visualisation (Matplotlib, Seaborn)
+  
+- - -
 
 ### [Democracy Data Visualisation](https://public.tableau.com/app/profile/benjamin.wood8808/viz/AnalysisofDemocracyScoresvsGDPCapita/RegionView)
 *Synthesising and visualising democracy indices across countries*
@@ -37,6 +39,8 @@ In 2024, I decided to transition back to a data-based career. Since leaving teac
 - Creating an analysis-ready table required synthesising the required data from multiple sources using imports from the web, cleaning the data, and using lookups for each field.
 - The created dashboards visualise the desired relationships, and allow users to explore the combined dataset through various filters.
 - **Skills:** Data collection & synthesis (Excel, lookups), Tableau dashboards, data cleaning
+
+- - -
 
 ### [Workout Data Visualisation](https://public.tableau.com/app/profile/benjamin.wood8808/viz/WorkoutProgressDashboard_17536908034250/ProgressDash)
 *Interactive Tableau dashboard for displaying progress in workouts over time*
