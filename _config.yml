@@ -1,2 +1,13 @@
 title: Benjamin Wood – Data Portfolio
 theme: jekyll-theme-minimal
+
+# Please use my custom CSS
+sass:
+  style: compressed
+
+# Sth to do with loading my stylesheet idk it's getting late now.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
