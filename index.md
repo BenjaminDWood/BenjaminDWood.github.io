@@ -6,6 +6,8 @@
 
 🏡 Nationality: UK
 
+🎓 BSc Economics, University of East Anglia
+
 💻 [GitHub](https://github.com/BenjaminDWood) | 📊 [Tableau Public](https://public.tableau.com/app/profile/benjamin.wood8808/vizzes)
 
 📧 email: bdwood90@gmail.com
