@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="assets/css/style.css">
-
 # Portfolio for Benjamin Wood
 
 #### Data Analyst/Scientist
